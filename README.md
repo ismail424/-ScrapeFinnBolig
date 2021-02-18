@@ -5,6 +5,11 @@ This project is trying to scrape real estate information from www.finn.no, inclu
 ## Requirements
 * [Python 3+](https://www.python.org/)
 
+## Python library that i used
+* bs4
+* requests
+* xlsxwriter
+
 ### Installation
 1. Install [Python 3+](https://www.python.org/)
 2. Open "cmd.exe" or a Terminal
