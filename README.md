@@ -14,5 +14,5 @@ This project is trying to scrape real estate information from www.finn.no, inclu
 
 ### How to run the program
 1. Create a new folder
-2. Place the app.py file in their
+2. Place the app.py file in the folder that you just created
 3. Run the app.py (You can customize the script if you want)
