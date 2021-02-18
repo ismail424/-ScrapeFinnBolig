@@ -5,7 +5,7 @@ This project is trying to scrape real estate information from www.finn.no, inclu
 ## Requirements
 * [Python 3+](https://www.python.org/)
 
-## Python library that i used
+## Python libraries that i used
 * bs4
 * requests
 * xlsxwriter
