@@ -1,2 +1,2 @@
-# ScrapeFinnBolig
-Scraping FinnBolig
+# ScrapeFinnBoligV2
+Scraping FinnBoligV2
