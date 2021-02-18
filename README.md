@@ -10,14 +10,17 @@ This project is trying to scrape real estate information from www.finn.no, inclu
 * requests
 * xlsxwriter
 
-### Installation
+## Installation
 1. Install [Python 3+](https://www.python.org/)
 2. Open "cmd.exe" or a Terminal
 3. type ("pip3 install bs4") and hit enter
 4. type ("pip3 install requests") and hit enter
 5. type ("pip3 install xlsxwriter") and hit enter
 
-### How to run the program
+## How to run the program
 1. Create a new folder
 2. Place the app.py file in the folder that you just created
 3. Run the app.py (You can customize the script if you want)
+
+## Contact me if you need help
+cicas03@hotmail.com
