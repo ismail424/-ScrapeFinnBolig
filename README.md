@@ -1,2 +1,2 @@
-# -ScrapeFinnBolig
+# ScrapeFinnBolig
 Scraping FinnBolig
